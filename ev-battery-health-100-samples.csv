@@ -1,0 +1,80 @@
+Rider_ID,Date,Trip_ID,Trip_Distance_km,Trip_Duration_min,Average_Speed_kmph,Acceleration_Pattern,Braking_Pattern,Energy_Consumption_kWh_per_km,Idle_Time_min,Voltage_V,Current_A,Energy_kWh,Charge_Cycles,Depth_of_Discharge_percent,Temperature_C,Charging_Start_Time,Charging_End_Time,Charging_Power_kW,Charging_Duration_min,Charging_Type,Charging_Station_Location,Battery_Charge_Efficiency_percent,Battery_Health_percent,Estimated_Range_km,Recommended_Action
+R076,2025-01-14,T00001,23.5,48,29.4,Moderate,Mild,0.127,5,47.5,15.0,3.0,125,65,24,2025-01-14 19:32,2025-01-14 20:57,7.2,85,Standard,Home,92.5,95.3,68,Normal charging
+R032,2025-01-03,T00002,18.7,39,28.7,Mild,Mild,0.115,4,47.8,14.2,2.2,182,58,21,2025-01-03 18:15,2025-01-03 19:25,7.2,70,Standard,Home,91.2,93.8,74,Normal charging
+R093,2025-02-08,T00003,42.3,76,33.4,Aggressive,Moderate,0.165,10,46.8,16.7,7.0,243,78,29,2025-02-08 20:47,2025-02-08 23:02,11.0,135,Fast,Public Station E,87.5,83.6,52,Consider battery health check
+R015,2025-01-23,T00004,27.9,54,31.0,Moderate,Moderate,0.138,6,47.2,15.5,3.9,115,69,25,2025-01-23 19:08,2025-01-23 20:38,7.2,90,Standard,Home,93.4,96.2,65,Normal charging
+R044,2025-02-14,T00005,35.6,67,31.9,Moderate,Aggressive,0.152,8,46.9,16.0,5.4,194,74,28,2025-02-14 20:02,2025-02-14 21:52,7.2,110,Standard,Home,90.1,88.7,58,Smoother braking recommended
+R067,2025-01-08,T00006,14.8,32,27.8,Mild,Mild,0.112,3,48.0,14.0,1.7,167,52,20,2025-01-08 17:50,2025-01-08 18:45,7.2,55,Standard,Home,91.8,93.4,76,Normal charging
+R025,2025-02-20,T00007,45.2,78,34.8,Aggressive,Aggressive,0.173,12,46.5,17.2,7.8,175,82,31,2025-02-20 21:15,2025-02-20 23:45,11.0,150,Fast,Public Station B,86.3,92.1,53,Reduce aggressive riding style
+R081,2025-01-30,T00008,21.5,43,30.0,Moderate,Mild,0.131,5,47.6,15.2,2.8,131,63,23,2025-01-30 18:42,2025-01-30 20:07,7.2,85,Standard,Home,92.8,94.6,69,Normal charging
+R009,2025-02-05,T00009,33.7,65,31.1,Moderate,Moderate,0.142,7,47.0,15.7,4.8,109,72,26,2025-02-05 19:55,2025-02-05 21:35,7.2,100,Standard,Home,93.7,96.8,64,Normal charging
+R058,2025-01-19,T00010,15.9,35,27.3,Mild,Mild,0.110,4,48.1,13.8,1.7,158,53,19,2025-01-19 17:30,2025-01-19 18:30,7.2,60,Standard,Home,92.2,94.0,77,Normal charging
+R037,2025-02-25,T00011,38.4,71,32.4,Moderate,Aggressive,0.157,9,46.8,16.3,6.0,187,76,29,2025-02-25 20:35,2025-02-25 22:30,11.0,115,Fast,Public Station C,87.9,89.2,56,Smoother braking recommended
+R072,2025-01-11,T00012,19.3,41,28.2,Mild,Moderate,0.124,5,47.7,14.6,2.4,171,60,22,2025-01-11 18:25,2025-01-11 19:35,7.2,70,Standard,Home,91.5,92.7,71,Normal charging
+R023,2025-02-17,T00013,44.8,79,34.0,Aggressive,Moderate,0.168,11,46.6,16.9,7.5,123,80,30,2025-02-17 21:10,2025-02-17 23:35,11.0,145,Fast,Public Station F,87.0,95.4,54,Limit fast charging sessions
+R096,2025-01-27,T00014,25.6,51,30.1,Moderate,Mild,0.134,6,47.4,15.3,3.4,247,67,24,2025-01-27 19:00,2025-01-27 20:25,7.2,85,Standard,Home,86.8,83.0,59,Consider battery health check
+R051,2025-02-03,T00015,32.8,63,31.2,Moderate,Moderate,0.143,7,47.1,15.6,4.7,201,71,26,2025-02-03 19:50,2025-02-03 21:25,7.2,95,Standard,Home,89.5,87.3,58,Monitor battery temperature
+R018,2025-01-16,T00016,16.7,36,27.8,Mild,Mild,0.113,4,48.0,14.1,1.9,118,54,20,2025-01-16 17:40,2025-01-16 18:45,7.2,65,Standard,Home,93.2,96.5,78,Normal charging
+R063,2025-02-22,T00017,40.5,74,32.8,Aggressive,Moderate,0.162,10,46.7,16.5,6.6,163,77,29,2025-02-22 20:55,2025-02-22 22:55,11.0,120,Fast,Public Station D,87.4,93.2,55,Limit fast charging sessions
+R085,2025-01-05,T00018,22.4,45,29.9,Moderate,Mild,0.130,5,47.6,15.1,2.9,135,62,23,2025-01-05 18:35,2025-01-05 20:00,7.2,85,Standard,Home,92.6,94.3,69,Normal charging
+R039,2025-01-21,T00019,31.5,61,31.0,Moderate,Moderate,0.140,7,47.2,15.5,4.4,189,70,25,2025-01-21 19:45,2025-01-21 21:20,7.2,95,Standard,Home,90.3,88.9,59,Monitor battery temperature
+R004,2025-02-11,T00020,17.8,38,28.1,Mild,Mild,0.114,4,47.9,14.2,2.0,104,56,21,2025-02-11 17:50,2025-02-11 18:55,7.2,65,Standard,Home,94.0,97.2,79,Normal charging
+R099,2025-01-31,T00021,43.6,78,33.5,Aggressive,Aggressive,0.175,11,46.5,17.3,7.6,249,81,31,2025-01-31 21:20,2025-01-31 23:50,11.0,150,Fast,Public Station K,86.5,82.7,50,Schedule battery service
+R027,2025-02-07,T00022,24.7,49,30.2,Moderate,Mild,0.133,5,47.5,15.2,3.3,177,65,24,2025-02-07 19:05,2025-02-07 20:30,7.2,85,Standard,Home,91.0,92.3,66,Normal charging
+R056,2025-01-18,T00023,36.9,69,32.1,Moderate,Aggressive,0.154,8,46.8,16.1,5.7,156,75,28,2025-01-18 20:15,2025-01-18 22:10,7.2,115,Standard,Home,92.0,93.7,57,Smoother braking recommended
+R042,2025-02-28,T00024,15.3,33,27.8,Mild,Mild,0.111,3,48.0,13.9,1.7,192,53,20,2025-02-28 17:35,2025-02-28 18:35,7.2,60,Standard,Home,90.0,88.5,76,Normal charging
+R071,2025-01-25,T00025,41.8,75,33.4,Aggressive,Moderate,0.164,10,46.7,16.8,6.9,221,79,30,2025-01-25 21:00,2025-01-25 23:15,11.0,135,Fast,Public Station J,87.2,86.4,52,Limit fast charging sessions
+R013,2025-02-15,T00026,20.6,42,29.4,Moderate,Mild,0.129,5,47.7,15.0,2.7,113,61,22,2025-02-15 18:30,2025-02-15 19:50,7.2,80,Standard,Home,93.5,96.7,72,Normal charging
+R088,2025-01-08,T00027,30.4,59,30.9,Moderate,Moderate,0.139,7,47.2,15.4,4.2,238,69,25,2025-01-08 19:40,2025-01-08 21:10,7.2,90,Standard,Home,87.2,84.5,59,Consider battery health check
+R030,2025-02-19,T00028,18.5,39,28.5,Mild,Mild,0.116,4,47.8,14.3,2.1,180,57,21,2025-02-19 18:10,2025-02-19 19:20,7.2,70,Standard,Home,90.8,91.2,74,Normal charging
+R061,2025-01-29,T00029,39.7,72,33.1,Aggressive,Moderate,0.160,10,46.7,16.4,6.4,161,76,29,2025-01-29 20:45,2025-01-29 22:45,11.0,120,Fast,Public Station H,88.5,93.5,56,Limit fast charging sessions
+R095,2025-02-06,T00030,23.8,48,29.8,Moderate,Mild,0.132,5,47.5,15.2,3.1,245,64,24,2025-02-06 19:00,2025-02-06 20:25,7.2,85,Standard,Home,87.0,83.3,60,Consider battery health check
+R047,2025-01-15,T00031,34.5,66,31.4,Moderate,Moderate,0.145,8,47.0,15.8,5.0,197,73,27,2025-01-15 19:55,2025-01-15 21:35,7.2,100,Standard,Home,89.8,87.9,57,Monitor battery temperature
+R022,2025-02-24,T00032,16.2,35,27.8,Mild,Mild,0.112,4,48.0,14.0,1.8,122,54,20,2025-02-24 17:45,2025-02-24 18:50,7.2,65,Standard,Home,93.1,95.8,78,Normal charging
+R077,2025-01-02,T00033,42.9,77,33.5,Aggressive,Aggressive,0.170,11,46.6,17.0,7.3,227,80,30,2025-01-02 21:05,2025-01-02 23:30,11.0,145,Fast,Public Station F,86.9,85.3,51,Reduce aggressive riding style
+R033,2025-02-13,T00034,25.2,50,30.2,Moderate,Mild,0.135,6,47.4,15.3,3.4,183,66,24,2025-02-13 19:10,2025-02-13 20:35,7.2,85,Standard,Home,90.7,90.9,65,Normal charging
+R082,2025-01-26,T00035,37.3,70,32.0,Moderate,Aggressive,0.155,9,46.8,16.2,5.8,232,76,28,2025-01-26 20:20,2025-01-26 22:15,11.0,115,Fast,Public Station G,87.6,85.0,55,Smoother braking recommended
+R010,2025-02-01,T00036,14.6,32,27.4,Mild,Mild,0.110,3,48.1,13.8,1.6,110,52,19,2025-02-01 17:30,2025-02-01 18:30,7.2,60,Standard,Home,93.9,97.0,80,Normal charging
+R068,2025-01-17,T00037,40.1,73,33.0,Aggressive,Moderate,0.161,10,46.7,16.6,6.5,168,77,29,2025-01-17 20:50,2025-01-17 22:50,11.0,120,Fast,Public Station E,88.0,92.5,55,Limit fast charging sessions
+R026,2025-02-09,T00038,21.9,44,29.9,Moderate,Mild,0.130,5,47.6,15.1,2.8,176,62,23,2025-02-09 18:35,2025-02-09 20:00,7.2,85,Standard,Home,91.1,92.5,68,Normal charging
+R054,2025-01-21,T00039,29.6,57,31.1,Moderate,Moderate,0.138,7,47.3,15.3,4.1,154,68,25,2025-01-21 19:35,2025-01-21 21:05,7.2,90,Standard,Home,92.3,94.1,65,Normal charging
+R019,2025-02-16,T00040,19.4,40,29.1,Mild,Moderate,0.125,5,47.7,14.7,2.4,119,59,22,2025-02-16 18:20,2025-02-16 19:30,7.2,70,Standard,Home,93.3,96.3,73,Normal charging
+R091,2025-01-27,T00041,44.2,78,34.0,Aggressive,Moderate,0.167,11,46.6,16.8,7.4,241,80,30,2025-01-27 21:05,2025-01-27 23:30,11.0,145,Fast,Public Station K,87.1,84.0,51,Consider battery health check
+R045,2025-02-04,T00042,24.3,48,30.4,Moderate,Mild,0.133,5,47.5,15.2,3.2,195,65,24,2025-02-04 19:05,2025-02-04 20:30,7.2,85,Standard,Home,90.0,88.4,63,Normal charging
+R073,2025-01-12,T00043,35.8,67,32.1,Moderate,Aggressive,0.153,8,46.9,16.1,5.5,222,74,28,2025-01-12 20:10,2025-01-12 22:05,7.2,115,Standard,Home,88.5,86.1,56,Smoother braking recommended
+R024,2025-02-21,T00044,15.7,34,27.7,Mild,Mild,0.112,4,48.0,13.9,1.8,174,53,20,2025-02-21 17:40,2025-02-21 18:40,7.2,60,Standard,Home,91.3,92.7,76,Normal charging
+R059,2025-01-30,T00045,41.3,75,33.0,Aggressive,Moderate,0.163,10,46.7,16.7,6.7,159,78,30,2025-01-30 20:55,2025-01-30 23:10,11.0,135,Fast,Public Station I,88.7,93.8,55,Limit fast charging sessions
+R086,2025-02-12,T00046,22.7,46,29.6,Moderate,Mild,0.131,5,47.6,15.2,3.0,236,63,23,2025-02-12 18:40,2025-02-12 20:05,7.2,85,Standard,Home,87.4,84.8,61,Consider battery health check
+R038,2025-01-05,T00047,33.2,63,31.6,Moderate,Moderate,0.144,7,47.0,15.7,4.8,188,72,26,2025-01-05 19:50,2025-01-05 21:30,7.2,100,Standard,Home,90.5,89.3,59,Normal charging
+R014,2025-02-18,T00048,17.3,37,28.1,Mild,Mild,0.114,4,47.9,14.2,2.0,114,56,21,2025-02-18 17:55,2025-02-18 19:00,7.2,65,Standard,Home,93.6,96.9,78,Normal charging
+R097,2025-01-28,T00049,43.1,77,33.6,Aggressive,Aggressive,0.172,11,46.5,17.1,7.4,248,81,31,2025-01-28 21:15,2025-01-28 23:45,11.0,150,Fast,Public Station L,86.7,83.2,49,Schedule battery service
+R052,2025-02-10,T00050,26.4,52,30.5,Moderate,Mild,0.136,6,47.3,15.4,3.6,202,67,24,2025-02-10 19:15,2025-02-10 20:45,7.2,90,Standard,Home,89.3,87.1,61,Normal charging
+R003,2025-01-19,T00051,38.5,71,32.5,Moderate,Aggressive,0.156,9,46.8,16.3,6.0,103,76,28,2025-01-19 20:25,2025-01-19 22:25,11.0,120,Fast,Public Station B,93.8,97.3,59,Smoother braking recommended
+R078,2025-02-25,T00052,15.1,33,27.5,Mild,Mild,0.111,3,48.0,13.8,1.7,228,52,19,2025-02-25 17:30,2025-02-25 18:30,7.2,60,Standard,Home,88.0,84.9,73,Consider battery health check
+R020,2025-01-01,T00053,39.2,72,32.7,Aggressive,Moderate,0.159,10,46.8,16.5,6.2,120,76,29,2025-01-01 20:40,2025-01-01 22:40,11.0,120,Fast,Public Station C,93.0,95.5,57,Limit fast charging sessions
+R065,2025-02-14,T00054,20.8,42,29.7,Moderate,Mild,0.128,5,47.7,15.0,2.7,165,61,22,2025-02-14 18:30,2025-02-14 19:50,7.2,80,Standard,Home,91.7,93.1,70,Normal charging
+R031,2025-01-23,T00055,28.9,56,31.0,Moderate,Moderate,0.137,7,47.3,15.3,4.0,181,68,25,2025-01-23 19:30,2025-01-23 21:00,7.2,90,Standard,Home,90.9,91.5,64,Normal charging
+R094,2025-02-03,T00056,18.2,38,28.7,Mild,Mild,0.115,4,47.8,14.3,2.1,244,57,21,2025-02-03 18:05,2025-02-03 19:15,7.2,70,Standard,Home,87.1,83.5,70,Consider battery health check
+R048,2025-01-14,T00057,45.6,80,34.2,Aggressive,Moderate,0.169,11,46.6,17.0,7.7,198,81,30,2025-01-14 21:10,2025-01-14 23:40,11.0,150,Fast,Public Station M,89.7,87.7,50,Schedule battery service
+R016,2025-02-23,T00058,23.1,46,30.1,Moderate,Mild,0.132,5,47.5,15.2,3.0,116,64,23,2025-02-23 18:50,2025-02-23 20:15,7.2,85,Standard,Home,93.3,96.0,70,Normal charging
+R083,2025-01-09,T00059,34.7,66,31.5,Moderate,Moderate,0.146,8,47.0,15.9,5.1,233,73,27,2025-01-09 19:55,2025-01-09 21:40,7.2,105,Standard,Home,87.5,84.7,56,Consider battery health check
+R036,2025-02-02,T00060,16.9,36,28.2,Mild,Mild,0.113,4,47.9,14.1,1.9,186,55,20,2025-02-02 17:45,2025-02-02 18:50,7.2,65,Standard,Home,90.6,90.2,75,Normal charging
+R062,2025-01-31,T00061,42.5,76,33.6,Aggressive,Moderate,0.166,10,46.6,16.9,7.1,162,79,30,2025-01-31 21:00,2025-01-31 23:20,11.0,140,Fast,Public Station J,88.3,93.3,54,Limit fast charging sessions
+R074,2025-02-07,T00062,25.8,51,30.4,Moderate,Mild,0.135,6,47.4,15.3,3.5,223,66,24,2025-02-07 19:15,2025-02-07 20:40,7.2,85,Standard,Home,88.3,85.8,60,Consider battery health check
+R006,2025-01-18,T00063,37.9,70,32.5,Moderate,Aggressive,0.157,9,46.8,16.3,5.9,106,77,29,2025-01-18 20:25,2025-01-18 22:20,11.0,115,Fast,Public Station D,93.5,97.0,59,Smoother braking recommended
+R087,2025-02-26,T00064,14.4,31,27.9,Mild,Mild,0.109,3,48.1,13.7,1.6,237,51,19,2025-02-26 17:25,2025-02-26 18:20,7.2,55,Standard,Home,87.3,84.6,73,Consider battery health check
+R041,2025-01-06,T00065,40.8,74,33.1,Aggressive,Moderate,0.162,10,46.7,16.6,6.6,191,78,29,2025-01-06 20:45,2025-01-06 22:45,11.0,120,Fast,Public Station O,90.2,89.0,53,Limit fast charging sessions
+R098,2025-02-15,T00066,21.3,43,29.7,Moderate,Mild,0.129,5,47.7,15.0,2.7,248,62,23,2025-02-15 18:35,2025-02-15 19:55,7.2,80,Standard,Home,86.6,82.9,61,Schedule battery service
+R055,2025-01-24,T00067,31.7,61,31.2,Moderate,Moderate,0.141,7,47.1,15.6,4.5,155,70,26,2025-01-24 19:40,2025-01-24 21:15,7.2,95,Standard,Home,92.1,93.9,64,Normal charging
+R001,2025-02-05,T00068,19.6,40,29.4,Mild,Moderate,0.126,5,47.7,14.8,2.5,101,60,22,2025-02-05 18:25,2025-02-05 19:35,7.2,70,Standard,Home,94.1,97.5,73,Normal charging
+R079,2025-01-16,T00069,46.2,81,34.2,Aggressive,Aggressive,0.174,12,46.5,17.3,8.0,229,82,31,2025-01-16 21:20,2025-01-16 23:55,11.0,155,Fast,Public Station N,87.8,84.5,48,Schedule battery service
+R028,2025-02-11,T00070,24.9,49,30.5,Moderate,Mild,0.134,5,47.5,15.3,3.3,178,65,24,2025-02-11 19:05,2025-02-11 20:30,7.2,85,Standard,Home,90.9,92.0,66,Normal charging
+R070,2025-01-25,T00071,36.3,68,32.0,Moderate,Aggressive,0.153,9,46.9,16.1,5.6,170,75,28,2025-01-25 20:15,2025-01-25 22:10,7.2,115,Standard,Home,91.4,92.3,58,Smoother braking recommended
+R011,2025-02-22,T00072,15.5,34,27.4,Mild,Mild,0.111,3,48.0,13.9,1.7,111,53,20,2025-02-22 17:35,2025-02-22 18:35,7.2,60,Standard,Home,93.8,96.8,79,Normal charging
+R092,2025-01-03,T00073,38.9,71,32.9,Aggressive,Moderate,0.158,10,46.8,16.4,6.1,242,77,29,2025-01-03 20:35,2025-01-03 22:35,11.0,120,Fast,Public Station I,87.0,83.8,53,Consider battery health check
+R046,2025-02-19,T00074,22.1,44,30.1,Moderate,Mild,0.130,5,47.6,15.1,2.9,196,62,23,2025-02-19 18:40,2025-02-19 20:05,7.2,85,Standard,Home,89.9,88.2,65,Normal charging
+R008,2025-01-11,T00075,32.6,62,31.5,Moderate,Moderate,0.143,7,47.1,15.7,4.7,108,71,26,2025-01-11 19:45,2025-01-11 21:25,7.2,100,Standard,Home,93.9,97.1,66,Normal charging
+R064,2025-02-27,T00076,17.6,37,28.5,Mild,Mild,0.115,4,47.9,14.3,2.0,164,57,21,2025-02-27 18:00,2025-02-27 19:05,7.2,65,Standard,Home,91.8,93.4,76,Normal charging
+R100,2025-01-07,T00077,42.1,76,33.2,Aggressive,Aggressive,0.171,11,46.5,17.1,7.2,250,80,30,2025-01-07 21:10,2025-01-07 23:35,11.0,145,Fast,Public Station Q,86.4,82.5,48,Schedule battery service
+R035,2025-02-08,T00078,26.8,53,30.3,Moderate,Mild,0.137,6,47.3,15.4,3.7,185,68,25,2025-02-08 19:20,2025-02-08 20:50,7.2,90,Standard,Home,90.5,90.0,63,Normal charging
+R060,2025-01-20,T00079,39.5,72,32.9,Moderate,Aggressive,0.158,9,46.8,16.4,6.2,160,77,29,2025-01-20 20:30,2025
